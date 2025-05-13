@@ -1,2 +1,2 @@
-# .NET-EC2_Deployment_Demo
-Demo project to deploy .NET API project on AWS EC2
+# .NET to AWS EC2 Deployment Demo
+This Demo project has been used to practice deploying .NET API project on AWS EC2
